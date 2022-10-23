@@ -5,7 +5,7 @@ function Home(){
     return (
       <div id="home-card">
         <div className="card" id="card1" style={{ textAlign: 'center'}}>
-        <h5 className="card-title"  style={{fontSize: 30 + "px", fontWeight: 'bold', color: "navy"}}>Welcome to Bad Bank 2</h5>
+        <h5 className="card-title"  style={{fontSize: 30 + "px", fontWeight: 'bold', color: "navy"}}>Welcome to Bad Bank</h5>
           <p className="card-text" style={{fontSize: 12 + "px", color: "navy" }}>Thank you for choosing us!</p>
          
           <img src="/images/bank.png" className="card-img-top" alt="globe" id="homeImg" style={{width: 500 + 'px', position: 'relative',}}/>
